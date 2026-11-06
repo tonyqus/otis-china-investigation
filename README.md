@@ -4,3 +4,4 @@
 - [上海奥的斯与奥的斯机电：2025—2026年同期一次检验合格率](one-time-inspection-qualified-rate.md)
 - [奥的斯中国分公司负责人调整](china-region-lead-change.md)
 - [Otis 中国历史腐败与商业贿赂案件调查](otis-china-corruption-cases.md)
+- [Otis 全球领导层与区域运营架构](otis-global-leadership.md)
