@@ -12,3 +12,10 @@
 
 ## 商业贿赂调查
 - [Otis 中国历史腐败与商业贿赂案件调查](otis-china-corruption-cases.md)
+
+## 法务、代理律所与民事诉讼
+
+- [奥的斯中国相关代理律所与律师公开记录](otis-china-law-firms.md)
+- [奥的斯中国：维保费用与合同诉讼案例](otis-china-maintenance-litigation.md)
+
+上述专题区分律所自行披露、裁判文书转载、当事人主张与法院认定，并标注待核事项。
