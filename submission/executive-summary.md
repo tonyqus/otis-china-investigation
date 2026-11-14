@@ -1,38 +1,50 @@
-# Executive Summary
+# Otis China — Review Memorandum
 
-Prepared November 14, 2026. This is an English organization of existing public-record research, not a declaration of newly discovered misconduct or an authenticated translation of missing court files.
+November 14, 2026 · [Repository home](../README.md)
 
-## Principal findings and limits
+This memorandum summarizes a reported Shanghai procurement concern and the historical public record. It identifies what is supported, what is reported by the repository owner, and what remains to be obtained.
 
-The strongest primary regulatory source is [SEC Release 34-84087](../evidence/source-notes/E001.md), issued September 12, 2018 concerning United Technologies Corporation. It records a 2012 Wuhan bank kickback arrangement and 2011 Hangzhou/Shenzhen travel matters. These are already public enforcement facts, not three new cases submitted for the first time.
+## 1. Shanghai: reported Otis-only procurement
 
-For Wuhan, paragraph 38 records a Chinese conviction of an Otis China sales supervisor. The Chinese judgment, identity, exact statutory offense and sentence have not been obtained. Hangzhou and Shenzhen involve regulatory findings on travel; Chinese criminal outcomes remain unverified.
+The owner reports that **Zizhu Huating and Changli Huayuan form one procurement project organized at subdistrict (街道) level, limited to the Otis brand**. The concern is single-brand directed procurement and whether the restriction excluded competing brands or suppliers.
 
-Two additional historical matters require primary records: the Yiwu hospital distributor-salesperson transaction, reported through a quotation of a 2003 appeal judgment, and the 2008 Hunan adverse procurement list that reportedly names Hangzhou Xizi Otis. The full judgment and official list remain missing.
+| Residential site | Elevators | Unit price (RMB) | Calculated amount (RMB) |
+| --- | ---: | ---: | ---: |
+| Zizhu Huating / 紫竹华庭 | 13 | 180,000 | 2,340,000 |
+| Changli Huayuan / 昌里花园 | 54 | 180,000 | 9,720,000 |
+| **Total** | **67** | | **12,060,000** |
 
-Shanghai Jin Yun reporting concerns alleged conduct in 1996 and apprehension in 2014. No final conviction or sentence has been obtained. Other leads and industry comparators are expressly separated from confirmed Otis findings.
+The stated price covers **elevator equipment and installation, including removal of the existing elevators**. The owner identifies the respective **Owners’ Committees (业委会)** in the grouped procurement/supply/maintenance field. Their exact contractual roles, the responsible subdistrict and actual suppliers/installers/maintenance providers require documentation.
 
-## What this package adds
+**Source:** [owner statement E080](../projects/owner-statement.md). Quantities, price, fee scope and the procurement concern are owner-supplied; subtotals are calculated. No supporting procurement notice, brand clause, contract or payment record has been supplied. A formal statutory single-source procurement procedure has not been established.
 
-It provides bilingual case navigation, source identifiers and availability status, a distinction between conviction and sentence, corporate-name boundaries and a list of missing records. The latest substantive bribery search was November 13, 2026; restructuring/translation on November 14 did not establish new post-2018 conduct.
+**Records needed:** procurement/selection documents showing any Otis-only restriction; decision records and justification/approval; competing quotations or reasons for their absence; supplier-selection results; contracts, equipment schedules and payment records. These should establish who imposed the restriction, why, and how the subdistrict and committees participated. Tax treatment, payment status and component cost breakdown remain unverified.
 
-The current record does not demonstrate a newly occurring post-2018 Otis China bribery matter. Search gaps do not prove absence of misconduct.
+[Project details](../projects/shanghai-zizhu-changli.en.md)
 
-## Read next
+## 2. Historical findings and reports
 
-1. [Matters for review](matters-for-sec-review.md)
-2. [Cross-reference to the 2018 order](relationship-to-2018-order.md)
-3. [Six case summaries](../cases/README.md)
-4. [Evidence guide and classifications](../evidence/README.md)
-   - [Main index](../evidence/index.csv) · [Supplementary register](../evidence/supplementary-register.csv) · [Matter-to-source map](../evidence/matter-source-map.csv)
-5. [Outstanding records](../research/outstanding-records.en.md)
+| Matter | Available source and finding | Main gap |
+| --- | --- | --- |
+| Wuhan bank procurement, 2012 | [2018 SEC UTC order, E001](../evidence/source-notes/E001.md), paragraphs 36–38: kickback arrangement and recorded Chinese conviction of a sales supervisor | Chinese judgment, identity, offense, sentence and finality |
+| Hangzhou Metro travel, 2011 | E001, paragraph 41: leisure travel approved in 2010 for 2011 | Chinese judicial/administrative follow-up |
+| Shenzhen Metro travel, 2011 | E001, paragraph 42: US leisure travel | Chinese judicial/administrative follow-up |
+| Yiwu hospital procurement, 2000; reported appeal 2003 | [E009](../evidence/source-notes/E009.md): media reporting quoting a distributor-salesperson judgment | Complete trial/appeal decisions, sentence and manufacturer relationship |
+| Hunan adverse procurement list, reported 2008 | E009: media naming Hangzhou Xizi Otis | Official notice and complete company-specific attachment |
+| Shanghai Jin Yun, reported 1996 conduct; apprehension 2014 | [E010](../evidence/source-notes/E010.md), [E011](../evidence/source-notes/E011.md), [E012](../evidence/source-notes/E012.md): investigation/apprehension reporting | Charging documents, final judgment and sentence |
 
-[Maintenance, inspection and civil-litigation background](../background/README.md) is provided for context and is not presented as proof of bribery or an SEC securities-law violation.
+Wuhan, Hangzhou and Shenzhen are **already covered by one 2018 enforcement action**, not three new cases. The respondent was UTC, then Otis's parent; global settlement sums are not China-only amounts. The other reports are not represented as authenticated Chinese judgments or proven corporate offenses.
 
-No submission has been sent to the SEC as part of this work. This package does not determine jurisdiction, liability or whether an investigation should be opened.
+## 3. Questions for review
 
-## Owner-provided Shanghai residential projects
+- What procurement documents substantiate the reported Shanghai brand restriction, its decision-makers and justification?
+- What contractual and payment records identify the participating legal entities and the respective roles of the subdistrict and Owners’ Committees?
+- Can the missing Chinese judgments and Hunan attachment establish the precise historical conduct, outcomes and entity relationships?
 
-[Zizhu Huating and Changli Huayuan](../projects/shanghai-zizhu-changli.en.md) are included as a separate project group. The owner reports **67 elevators and RMB 12,060,000 combined** ([E080](../projects/owner-statement.md)); Zizhu Huating: 13 elevators × RMB 180,000 = RMB 2,340,000; Changli Huayuan: 54 × RMB 180,000 = RMB 9,720,000. The amounts cover elevator equipment and installation fees, including removal of the existing elevators, according to the owner. Component cost breakdown, tax treatment, currency confirmation, payment status, period and transaction entities await supporting records. This information is not independently verified and is not characterized as a bribe or loss. It does not increase the historical bribery-case count or establish a connection to the 2018 order.
+The Shanghai restriction as reported does not itself establish bribery or an SEC violation. The latest substantive bribery review was November 13, 2026; no new post-2018 Otis China bribery matter has been independently established in these materials. Jurisdiction and any further action are for the reviewing authority to assess.
 
-The owner further reports that both residential sites form one subdistrict-level procurement project restricted to the Otis brand, and identifies single-brand directed procurement as the principal concern. Procurement/selection documents, the brand clause, decision records and any justification/approval remain to be obtained. The responsible subdistrict and the Owners’ Committees' respective roles require documentation; the reported restriction alone does not establish bribery or a securities-law violation.
+## Sources and attachments
+
+The [selected evidence index](../evidence/index.csv) states each source's role and limits. Related reports are not counted as separate cases or automatically independent corroboration. Detailed case summaries, other citations, missing-records lists, Chinese originals and methodology are available through the [supporting document index](../docs/research-index.en.md).
+
+English texts are unofficial translations or organized research renderings. External source artifacts are linked, not bundled. No submission has been sent to the SEC through this work.
