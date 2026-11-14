@@ -1,26 +1,9 @@
-# 上海奥的斯与奥的斯机电：2025—2026年同期一次检验合格率
+# Shanghai: First-Pass Inspection Rates, Comparable Periods in 2025–2026
 
-统计对象分别为上海奥的斯电梯有限公司、奥的斯机电电梯有限公司上海分公司。变化以2026年减2025年计算。
+This topic has moved into the bilingual evidence package.
 
-| 维保单位 | 同期季度 | 2025年 | 2026年 | 变化 |
-|---|---|---:|---:|---:|
-| 上海奥的斯 | 第一季度 | 89.94% | 88.94% | 下降1.00个百分点 |
-| 上海奥的斯 | 第二季度* | 90.25% | 90.41% | 提高0.16个百分点 |
-| 奥的斯机电上海分公司 | 第一季度 | 88.35% | 74.00% | 下降14.35个百分点 |
-| 奥的斯机电上海分公司 | 第二季度* | 89.02% | 77.64% | 下降11.38个百分点 |
+- [English report](background/shanghai-inspection-rates.en.md)
+- [Preserved Chinese research](docs/zh-CN/one-time-inspection-qualified-rate.md)
+- [Repository guide](README.md)
 
-## 统计口径
-
-- 第一季度两年指标名称均为“定期检验一次合格率”。
-- *2025年第二季度为“检验检测一次合格率”，2026年第二季度为“定期检验一次合格率”。上述差值仅为公示数值的算术比较，统计范围是否完全一致尚待确认。
-- 数据按上海地区的维保单位统计，不是制造品牌故障率、新梯验收合格率或综合信用评价排名。
-- 上海奥的斯的公示合格率同比变化较小；奥的斯机电上海分公司的公示数值低于去年同期。原因不能仅凭此表判断。
-
-## 官方来源
-
-发布机构：上海市市场监督管理局。附件均为相应季度上海市超大型电梯维保单位信用评价排名及部分评价指标公示。
-
-- [2025年第一季度官方PDF](https://scjgj.sh.gov.cn/cmsres/75/755192e1481044d4a38628bb58f0dce4/f7b5e50c1148c2ead6307281fe82f736.pdf)
-- [2025年第二季度官方PDF](https://scjgj.sh.gov.cn/cmsres/c7/c773094236604c1397ee97a18556446c/0b7c6a85e1ac204084e3139cd075fdee.pdf)
-- [2026年第一季度官方PDF](https://scjgj.sh.gov.cn/cmsres/4e/4ea35f013b1a4a51b37fb431d50b2bcc/a471e644f6f78da14ba1ba8ae1b66e91.pdf)
-- [2026年第二季度官方PDF](https://scjgj.sh.gov.cn/cmsres/16/16d99171097f473d929b1b282c4ecb6f/04516d19df53abf4b7a9a97d7de79e50.pdf)
+The Chinese original is preserved without factual edits. This legacy path remains for compatibility; use the English report for the current navigation.

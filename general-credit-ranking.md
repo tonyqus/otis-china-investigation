@@ -1,28 +1,9 @@
-# 上海奥的斯与奥的斯机电：官方综合信用评价排名
+# Shanghai: Published Comprehensive Credit Rankings
 
-发布机构：上海市市场监督管理局。
+This topic has moved into the bilingual evidence package.
 
-统计对象：上海奥的斯电梯有限公司、奥的斯机电电梯有限公司上海分公司。两家单位分别列示，不合并为品牌排名。
+- [English report](background/shanghai-credit-ranking.en.md)
+- [Preserved Chinese research](docs/zh-CN/general-credit-ranking.md)
+- [Repository guide](README.md)
 
-| 维保单位 | 同期季度 | 2025年排名（共12家） | 2026年排名（共13家） | 名次变化 |
-|---|---|---:|---:|---|
-| 上海奥的斯 | 第一季度 | 第6名 | 第5名 | 上升1位 |
-| 上海奥的斯 | 第二季度 | 第4名 | 第3名 | 上升1位 |
-| 奥的斯机电上海分公司 | 第一季度 | 第7名 | 第12名 | 下降5位 |
-| 奥的斯机电上海分公司 | 第二季度 | 第10名 | 第11名 | 下降1位 |
-
-## 口径说明
-
-- 上述为官方公示的综合信用评价排名，并非按定期检验一次合格率排序。
-- 比较范围为上海市超大型电梯维保单位（维保业务承接量5000台以上）。
-- 2025年两个季度各12家参评，2026年两个季度各13家参评。参评数量及构成可能变化，名次变化不能直接解释为同等幅度的服务水平变化。
-- 数据对应指定上海维保单位，不是全国品牌排名，也不是制造质量排名、新梯验收合格率或运行故障率。
-
-## 官方来源
-
-附件名称均为相应季度《上海市超大型电梯维保单位信用评价排名及部分评价指标公示》。
-
-- [2025年第一季度官方PDF](https://scjgj.sh.gov.cn/cmsres/75/755192e1481044d4a38628bb58f0dce4/f7b5e50c1148c2ead6307281fe82f736.pdf)
-- [2025年第二季度官方PDF](https://scjgj.sh.gov.cn/cmsres/c7/c773094236604c1397ee97a18556446c/0b7c6a85e1ac204084e3139cd075fdee.pdf)
-- [2026年第一季度官方PDF](https://scjgj.sh.gov.cn/cmsres/4e/4ea35f013b1a4a51b37fb431d50b2bcc/a471e644f6f78da14ba1ba8ae1b66e91.pdf)
-- [2026年第二季度官方PDF](https://scjgj.sh.gov.cn/cmsres/16/16d99171097f473d929b1b282c4ecb6f/04516d19df53abf4b7a9a97d7de79e50.pdf)
+The Chinese original is preserved without factual edits. This legacy path remains for compatibility; use the English report for the current navigation.
