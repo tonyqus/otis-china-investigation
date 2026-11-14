@@ -12,8 +12,10 @@ This bilingual repository organizes public records and research concerning histo
 2. [Matters for SEC review](submission/matters-for-sec-review.md)
 3. [Relationship to the 2018 SEC UTC order](submission/relationship-to-2018-order.md)
 4. [Case summaries: English and Chinese](cases/README.md)
-5. [Evidence index](evidence/index.csv) and [source notes](evidence/source-notes/README.md)
+5. [Evidence guide](evidence/README.md): [main index](evidence/index.csv), [supplementary register](evidence/supplementary-register.csv), and [source notes](evidence/source-notes/README.md)
 6. [Entity map](entities/entity-map.en.md)
+7. [Matter-to-source map](evidence/matter-source-map.csv) and [repository audit / outstanding gaps](methodology/repository-audit.md)
+8. [Submission reading guide](submission/README.md)
 
 No submission has been sent to the SEC through this work. The package identifies facts, source limitations and questions for review; it does not determine jurisdiction or liability.
 

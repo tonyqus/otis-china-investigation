@@ -23,7 +23,8 @@ The current record does not demonstrate a newly occurring post-2018 Otis China b
 1. [Matters for review](matters-for-sec-review.md)
 2. [Cross-reference to the 2018 order](relationship-to-2018-order.md)
 3. [Six case summaries](../cases/README.md)
-4. [Source register](../evidence/index.csv)
+4. [Evidence guide and classifications](../evidence/README.md)
+   - [Main index](../evidence/index.csv) · [Supplementary register](../evidence/supplementary-register.csv) · [Matter-to-source map](../evidence/matter-source-map.csv)
 5. [Outstanding records](../research/outstanding-records.en.md)
 
 [Maintenance, inspection and civil-litigation background](../background/README.md) is provided for context and is not presented as proof of bribery or an SEC securities-law violation.

@@ -17,7 +17,8 @@
 
 ## 证据、线索与背景
 
-- [证据索引](evidence/index.csv)及[来源说明](evidence/source-notes/README.md)
+- [证据分类说明](evidence/README.md)、[主索引](evidence/index.csv)、[补充资料清单](evidence/supplementary-register.csv)及[来源说明](evidence/source-notes/README.md)
+- [事项与来源对应表](evidence/matter-source-map.csv)、[结构检查与缺口报告](methodology/repository-audit.md)、[提交材料阅读顺序](submission/README.md)
 - [未核实线索](research/unverified-leads.en.md)、[排除事项](research/excluded-or-unrelated.en.md)及[待取材料](research/outstanding-records.en.md)
 - [组织架构、监管指标、维保与诉讼专题英文版](background/README.md)
 - [法人及名称辨析](entities/entity-map.en.md)

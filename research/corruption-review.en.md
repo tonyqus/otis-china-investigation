@@ -1,6 +1,6 @@
 # Otis China: Historical Corruption and Commercial Bribery Review
 
-> Unofficial English translation and reorganized rendering of the consolidated Chinese research, last substantively reviewed November 13, 2026; English edition November 14, 2026. [Preserved Chinese note](../docs/zh-CN/otis-china-corruption-cases.md). This translates research notes, not the underlying Chinese judgments or administrative decisions. Source numbers below correspond to E001–E018 in the [evidence index](../evidence/index.csv).
+> Unofficial English translation and reorganized rendering of the consolidated Chinese research, last substantively reviewed November 13, 2026; English edition November 14, 2026. [Preserved Chinese note](../docs/zh-CN/otis-china-corruption-cases.md). This translates research notes, not the underlying Chinese judgments or administrative decisions. Source numbers below retain the historical E001–E018 identifiers. Their current classification is split between the [main evidence index](../evidence/index.csv) and [supplementary register](../evidence/supplementary-register.csv); an identifier alone does not indicate core evidence.
 
 Scope: mainland China matters involving Otis operations, historical related businesses or distributors and relevant public judicial/media leads. Overseas procurement and the current Zizhu Huating residential project are excluded. Regulatory findings, media accounts and unverified leads are separated. Conduct dates differ from publication or penalty dates.
 
@@ -137,6 +137,6 @@ Lawful options include requesting Hunan records from the provincial health commi
 
 ## Sources
 
-Use the [evidence index](../evidence/index.csv) and [source notes](../evidence/source-notes/README.md) for E001–E018 and supplementary links. Missing originals are explicitly marked; archived Chinese research is not a primary judicial exhibit.
+Use the [main evidence index](../evidence/index.csv), [supplementary register](../evidence/supplementary-register.csv) and [source notes](../evidence/source-notes/README.md) together for the historical E001–E018 identifiers and other citations. Missing originals are explicitly marked; archived Chinese research is not a primary judicial exhibit.
 
 This review makes no finding of present criminal conduct by a person or company.

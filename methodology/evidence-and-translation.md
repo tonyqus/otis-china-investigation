@@ -8,7 +8,7 @@
 - Firm disclosure: self-reported legal work, not independent performance evidence.
 - Search lead: snippet, unavailable page or unverified reference, not an established fact.
 
-The [source register](../evidence/index.csv) contains core E001–E018 identifiers and supplementary URLs. Its source notes preserve earlier research access limitations. The November 14 migration did not freshly authenticate external links or all court records.
+The [main evidence index](../evidence/index.csv) contains six selected entries with roles, supported propositions, limitations and related-source groups. The [supplementary register](../evidence/supplementary-register.csv) classifies the other 74 identifiers, including outstanding records and the owner's project statement E080. E001–E018 are historical identifiers, not a declaration that all 18 are core evidence. [Source notes](../evidence/source-notes/README.md) retain stable identifiers and earlier research access limitations. The November 14 migration did not freshly authenticate external links or all court records.
 
 ## Translation rules
 

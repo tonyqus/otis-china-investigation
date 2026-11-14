@@ -7,3 +7,5 @@ The [supplementary register](supplementary-register.csv) accounts for the remain
 [E080](source-notes/E080.md) records the owner's combined project figures for Zizhu Huating and Changli Huayuan; supporting records remain pending. E004 and E005 identify missing records, not documents held.
 
 Original E-identifiers and [source notes](source-notes/README.md) remain stable so existing research references continue to work. External source artifacts are not bundled; see [originals](originals/README.md) and [translation status](translations/README.md).
+
+The [matter-to-source map](matter-source-map.csv) connects all six historical matters and the separate residential project group to selected sources, related citations and missing records. For the full structure review, see the [repository audit](../methodology/repository-audit.md).

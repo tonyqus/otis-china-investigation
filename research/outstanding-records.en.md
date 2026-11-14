@@ -12,6 +12,7 @@
 | Medium | Northern-region/Changchun article originals and exhibits | Establish provenance before factual reliance | Not obtained |
 | Medium | Yao Jiakai indictment/disposition and elevator contract | Separate product gift from supplier involvement | Not obtained |
 | Medium | Jiangxi Youmai/Zhong Bo judgment, case number, appeal/finality | Verify reported first-instance sentence; test any actual Otis nexus | Not obtained |
+| High — project substantiation | Zizhu Huating / Changli Huayuan contracts, equipment schedule, project allocation and invoices/payment records | Substantiate the owner's combined 67 elevators and reported RMB 12,060,000; clarify currency, amount basis, dates, work scope and legal entities | Not supplied; E080; see [project note](../projects/shanghai-zizhu-changli.en.md) |
 | Background | Original maintenance decisions and case-specific documents | Verify fine, location, conduct, duplication and legal basis | See individual background reports |
 | Background | Court originals, appeals and enforcement records for civil sample | Confirm decisions and actual recoveries | Reproductions only for many entries |
 | Background | Regional-leadership screenshot and corporate records | Verify reported names and appointments | Screenshot not in repository |
