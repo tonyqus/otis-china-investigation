@@ -17,6 +17,7 @@
 
 ## 虚假维保
 - [奥的斯中国虚假维保及违规维保案例调查](otis-shanghai-fake-maintenance.md)
+- [奥的斯中国上海以外地区虚假维保及违规维保案例调查](otis-china-fake-maintenance.md)
 
 ## 法务、代理律所与民事诉讼
 
