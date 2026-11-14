@@ -7,7 +7,9 @@
 - Follow-up statement (November 14, 2026): “紫竹华庭 13部电梯， 昌里花园 54部电梯，每部18万”.
 - English rendering of follow-up: Zizhu Huating has 13 elevators and Changli Huayuan has 54; each elevator is priced at RMB 180,000, following the existing RMB convention.
 - Arithmetic: 13 × 180,000 = RMB 2,340,000; 54 × 180,000 = RMB 9,720,000; (13 + 54) × 180,000 = RMB 12,060,000. Subtotals are calculated from the owner's stated quantities and unit price, not independently verified invoice amounts.
+- Fee-scope clarification (November 14, 2026): “金额性质是 电梯设备与安装费，包括拆梯费用”.
+- English rendering: The amounts cover elevator equipment and installation fees, including removal of the existing elevators. Removal is included in the RMB 180,000 unit price and resulting project totals; no separate cost breakdown was supplied.
 - Availability: transcribed statement only; no conversation export or supporting artifact bundled.
-- Verification: not independently verified; quantities and unit price are owner-supplied; amount type, currency confirmation, period, transaction entities, and supporting documentation remain pending.
+- Verification: not independently verified; quantities and unit price are owner-supplied; the fee scope is equipment and installation including existing-elevator removal; currency confirmation, tax treatment, component cost breakdown, payment status, period, transaction entities, and supporting documentation remain pending.
 
 See [English project note](shanghai-zizhu-changli.en.md) and [中文项目说明](shanghai-zizhu-changli.zh-CN.md). The amount is not characterized as bribery, loss, or illicit proceeds.

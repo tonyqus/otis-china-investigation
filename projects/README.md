@@ -2,7 +2,7 @@
 
 | Project group | Combined scope | Status |
 | --- | --- | --- |
-| [Shanghai Zizhu Huating and Changli Huayuan](shanghai-zizhu-changli.en.md) · [中文](shanghai-zizhu-changli.zh-CN.md) | 67 elevators; reported aggregate RMB 12,060,000 | Owner-supplied: Zizhu Huating 13 × RMB 180,000 = RMB 2,340,000; Changli Huayuan 54 × RMB 180,000 = RMB 9,720,000; amount basis and documents pending |
+| [Shanghai Zizhu Huating and Changli Huayuan](shanghai-zizhu-changli.en.md) · [中文](shanghai-zizhu-changli.zh-CN.md) | 67 elevators; reported aggregate RMB 12,060,000 | Owner-supplied: Zizhu Huating 13 × RMB 180,000 = RMB 2,340,000; Changli Huayuan 54 × RMB 180,000 = RMB 9,720,000; fees cover equipment and installation including existing-elevator removal; supporting documents pending |
 
 These project materials are separate from the six historical bribery matters. Source and verification status are recorded in [E080](owner-statement.md).
 

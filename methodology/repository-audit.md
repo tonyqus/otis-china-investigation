@@ -29,7 +29,7 @@ Reviewed November 14, 2026 against commit `5af09889357a3cd93084e685cc586e3e3e8f6
 
 ## Subsequent project clarification
 
-The owner supplied the project allocation and unit price after this audit: Zizhu Huating 13 elevators and Changli Huayuan 54, at RMB 180,000 each. Calculated subtotals are RMB 2,340,000 and RMB 9,720,000, totaling RMB 12,060,000. The allocation gap recorded below is superseded by this statement; underlying transaction records remain outstanding. See [current project note](../projects/shanghai-zizhu-changli.en.md).
+The owner supplied the project allocation and unit price after this audit: Zizhu Huating 13 elevators and Changli Huayuan 54, at RMB 180,000 each. Calculated subtotals are RMB 2,340,000 and RMB 9,720,000, totaling RMB 12,060,000. The owner also clarified that the amounts cover elevator equipment and installation fees, including removal of the existing elevators. The allocation and fee-scope gaps recorded below are superseded by these statements; underlying transaction records remain outstanding. See [current project note](../projects/shanghai-zizhu-changli.en.md).
 
 ## Material gaps recorded at the audit
 

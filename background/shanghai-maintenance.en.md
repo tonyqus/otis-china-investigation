@@ -81,4 +81,4 @@ Before external reliance, check the original decision, entity, identifier, dates
 
 ## Related residential project materials
 
-The owner has added [Zizhu Huating and Changli Huayuan](../projects/shanghai-zizhu-changli.en.md), reporting 67 elevators and RMB 12,060,000 combined ([E080](../projects/owner-statement.md)). Zizhu Huating: 13 elevators × RMB 180,000 = RMB 2,340,000; Changli Huayuan: 54 × RMB 180,000 = RMB 9,720,000. Those figures do not establish maintenance irregularities or bribery. The project note lists outstanding transaction and equipment records.
+The owner has added [Zizhu Huating and Changli Huayuan](../projects/shanghai-zizhu-changli.en.md), reporting 67 elevators and RMB 12,060,000 combined ([E080](../projects/owner-statement.md)). Zizhu Huating: 13 elevators × RMB 180,000 = RMB 2,340,000; Changli Huayuan: 54 × RMB 180,000 = RMB 9,720,000. The owner identifies the fee scope as elevator equipment and installation fees, including removal of the existing elevators. Those figures do not establish maintenance irregularities or bribery. The project note lists outstanding transaction and equipment records.
