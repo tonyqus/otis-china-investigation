@@ -11,3 +11,7 @@ Public searches do not cover every judicial database, unpublished case file or a
 Original external PDFs/pages are linked but not bundled unless explicitly listed as a stored artifact. No confidential internal records, witness declarations or original screenshot are claimed to be present.
 
 This work does not send a report, contact a regulator or change repository visibility. A private repository link alone may not grant an external reviewer access; GitHub's existing access controls continue to apply. The repository can be downloaded as a source archive for authorized review.
+
+## Owner-provided project information
+
+The package separately includes [Shanghai Zizhu Huating and Changli Huayuan](../projects/README.md), reporting 67 elevators and RMB 12,060,000 combined from an owner statement on November 14, 2026. These are project leads outside the six historical matters. E080 is not a public-record citation; supporting records, amount basis, allocation and currency confirmation are pending. Preserved Chinese research snapshots retain their original historical scope statements.

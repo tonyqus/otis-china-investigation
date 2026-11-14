@@ -29,3 +29,7 @@ The current record does not demonstrate a newly occurring post-2018 Otis China b
 [Maintenance, inspection and civil-litigation background](../background/README.md) is provided for context and is not presented as proof of bribery or an SEC securities-law violation.
 
 No submission has been sent to the SEC as part of this work. This package does not determine jurisdiction, liability or whether an investigation should be opened.
+
+## Owner-provided Shanghai residential projects
+
+[Zizhu Huating and Changli Huayuan](../projects/shanghai-zizhu-changli.en.md) are included as a separate project group. The owner reports **67 elevators and RMB 12,060,000 combined** ([E080](../evidence/source-notes/E080.md)); amount basis, currency confirmation, period, allocation and transaction entities await supporting records. This information is not independently verified and is not characterized as a bribe or loss. It does not increase the historical bribery-case count or establish a connection to the 2018 order.

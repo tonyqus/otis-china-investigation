@@ -2,7 +2,7 @@
 
 [中文说明](README.zh-CN.md)
 
-This bilingual repository organizes public records and research concerning historical bribery matters involving Otis operations in mainland China, distributors and potentially related parties. It also includes separate background on maintenance, regulatory indicators, organization and civil litigation.
+This bilingual repository organizes public records and research concerning historical bribery matters involving Otis operations in mainland China, distributors and potentially related parties. It includes owner-provided residential-project information with its own verification status. It also includes separate background on maintenance, regulatory indicators, organization and civil litigation.
 
 **English edition: November 14, 2026. Latest substantive bribery review: November 13, 2026.** All nine Chinese research notes now have English counterparts. Restructuring does not establish new misconduct or authenticate missing records.
 
@@ -67,3 +67,7 @@ All nine original Chinese notes are preserved in [docs/zh-CN](docs/zh-CN/README.
 Repository visibility and access permissions have not changed. A private link alone may not grant an external reviewer access. An authorized reviewer can use a downloaded repository archive.
 
 [License](LICENSE) remains unchanged; linked third-party materials retain their own terms.
+
+## Residential project materials
+
+[Shanghai Zizhu Huating and Changli Huayuan](projects/shanghai-zizhu-changli.en.md): the owner reports **67 elevators and RMB 12,060,000 combined**. Amount type, currency confirmation, project allocation and supporting records remain pending. [E080](evidence/source-notes/E080.md) is a user statement, not a public finding. These projects are separate from the six historical bribery matters.

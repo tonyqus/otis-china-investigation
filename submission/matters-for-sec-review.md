@@ -16,3 +16,7 @@ The package does not possess internal transaction records, witness declarations,
 An item should only be characterized as incremental evidence if its contents and relationship to the 2018 order are demonstrated. Repackaging known findings or later articles about historic facts is not new conduct.
 
 See [case summaries](../cases/README.md), [source notes](../evidence/source-notes/README.md) and [entity map](../entities/entity-map.en.md).
+
+## Separate project information requiring substantiation
+
+The owner reports a combined 67 elevators and RMB 12,060,000 for [Shanghai Zizhu Huating and Changli Huayuan](../projects/shanghai-zizhu-changli.en.md) ([E080](../evidence/source-notes/E080.md)). Obtain the project allocation, contracts, equipment schedule, amount basis, currency confirmation, payment records and legal-entity identities before drawing transaction-level conclusions. No specific improper payment or securities-law violation is established by these totals.

@@ -78,3 +78,7 @@ For elevators in use, first identify the actual maintenance entity, contract and
 Outsourced installation, frequent shutdowns or missing component-model information alone do not establish falsified maintenance or improper benefits. They are separate leads. This project-specific method is not evidence of bribery and is outside the historical bribery-case scope.
 
 Before external reliance, check the original decision, entity, identifier, dates and legal basis.
+
+## Related residential project materials
+
+The owner has added [Zizhu Huating and Changli Huayuan](../projects/shanghai-zizhu-changli.en.md), reporting 67 elevators and RMB 12,060,000 combined ([E080](../evidence/source-notes/E080.md)). Those totals do not establish maintenance irregularities or bribery. The project note lists outstanding transaction and equipment records.

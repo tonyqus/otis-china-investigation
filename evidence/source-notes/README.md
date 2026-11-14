@@ -81,3 +81,5 @@ Citations inherited from the research notes; linked artifacts have not been down
 - [E077 — Source linked in otis-china-corruption-cases.md](E077.md)
 - [E078 — Source linked in otis-china-corruption-cases.md](E078.md)
 - [E079 — Source linked in otis-china-corruption-cases.md](E079.md)
+
+- [E080 — Owner-provided Shanghai project totals](E080.md) — user-provided information, separate from public-record citations.
