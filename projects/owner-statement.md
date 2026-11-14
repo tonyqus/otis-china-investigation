@@ -11,6 +11,8 @@
 - English rendering: The amounts cover elevator equipment and installation fees, including removal of the existing elevators. Removal is included in the RMB 180,000 unit price and resulting project totals; no separate cost breakdown was supplied.
 - Party clarification (November 14, 2026): “采购、供应及维保主体：业委会”.
 - English rendering: The party identified in the grouped procurement/supply/maintenance field is the Owners’ Committee (业委会). This is recorded for both projects; full committee names, contractual responsibilities and actual service-provider identities await supporting documents.
+- Procurement concern (November 14, 2026): “这个项目要指出就是说它是街道层面的单一采购项目，是存在问题的，就是只有奥迪斯品牌，是单一定向采购”.
+- English rendering: The owner states this is one subdistrict-level procurement project limited to the Otis brand, and identifies the single-brand directed procurement as problematic. “奥迪斯” is rendered as Otis/奥的斯 in the project notes. This statement does not establish a formal statutory single-source procedure; procurement documents and the responsible subdistrict remain to be obtained.
 - Availability: transcribed statement only; no conversation export or supporting artifact bundled.
 - Verification: not independently verified; quantities and unit price are owner-supplied; the fee scope is equipment and installation including existing-elevator removal; currency confirmation, tax treatment, component cost breakdown, payment status, period, transaction entities, and supporting documentation remain pending.
 
