@@ -72,4 +72,4 @@ Repository visibility and access permissions have not changed. A private link al
 
 ## Residential project materials
 
-[Shanghai Zizhu Huating and Changli Huayuan](projects/shanghai-zizhu-changli.en.md): the owner reports **67 elevators and RMB 12,060,000 combined**. Amount type, currency confirmation, project allocation and supporting records remain pending. [E080](projects/owner-statement.md) is a user statement, not a public finding. These projects are separate from the six historical bribery matters.
+[Shanghai Zizhu Huating and Changli Huayuan](projects/shanghai-zizhu-changli.en.md): the owner reports **67 elevators and RMB 12,060,000 combined**. Zizhu Huating: 13 elevators × RMB 180,000 = RMB 2,340,000; Changli Huayuan: 54 × RMB 180,000 = RMB 9,720,000. Amount type, currency confirmation and supporting records remain pending. [E080](projects/owner-statement.md) is a user statement, not a public finding. These projects are separate from the six historical bribery matters.

@@ -27,7 +27,11 @@ Reviewed November 14, 2026 against commit `5af09889357a3cd93084e685cc586e3e3e8f6
 - Current internal Markdown file and section links were checked, excluding the explicitly historical README snapshot. External URL availability and source authenticity were not checked by this audit.
 - After repairs, the repository contains 152 tracked files. No source notes or preserved originals were deleted.
 
-## Material gaps that remain
+## Subsequent project clarification
+
+The owner supplied the project allocation and unit price after this audit: Zizhu Huating 13 elevators and Changli Huayuan 54, at RMB 180,000 each. Calculated subtotals are RMB 2,340,000 and RMB 9,720,000, totaling RMB 12,060,000. The allocation gap recorded below is superseded by this statement; underlying transaction records remain outstanding. See [current project note](../projects/shanghai-zizhu-changli.en.md).
+
+## Material gaps recorded at the audit
 
 | Priority | Gap | Where tracked / implication |
 | --- | --- | --- |

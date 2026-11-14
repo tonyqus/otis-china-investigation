@@ -6,12 +6,13 @@
 
 On November 14, 2026, the repository owner requested inclusion of **上海紫竹华庭 (Zizhu Huating)** and **昌里花园 (Changli Huayuan)**, reporting a combined **67 elevators** and **RMB 12,060,000 (RMB 12.06 million; 人民币1,206万元)**. English project names are pinyin renderings, not verified official English names.
 
-The figures apply to both projects together. They must not be assigned to each project individually or treated as a per-project total. The amount's nature—such as contract value, payments, budget, or estimated loss—has not been specified. It is not classified as a bribe, loss, illicit proceeds, or penalty.
+The owner subsequently specified **13 elevators at Zizhu Huating** and **54 at Changli Huayuan**, at **RMB 180,000 per elevator** for both projects. Calculated subtotals are **RMB 2,340,000** and **RMB 9,720,000**, respectively, totaling **RMB 12,060,000** for 67 elevators. The amount's nature—such as contract value, payments, budget, or estimated loss—has not been specified. It is not classified as a bribe, loss, illicit proceeds, or penalty.
 
 | Item | Zizhu Huating / 上海紫竹华庭 | Changli Huayuan / 昌里花园 | Combined |
 | --- | --- | --- | --- |
-| Elevator count | Not yet allocated | Not yet allocated | 67 |
-| Reported amount (RMB) | Not yet allocated | Not yet allocated | 12,060,000 |
+| Elevator count | 13 | 54 | 67 |
+| Reported unit price (RMB per elevator) | 180,000 | 180,000 | 180,000 |
+| Calculated amount (RMB) | 2,340,000 | 9,720,000 | 12,060,000 |
 | Amount basis and period | Pending | Pending | Pending |
 | Contracting / supplying / maintenance entities | Pending | Pending | Not established |
 

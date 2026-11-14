@@ -4,7 +4,10 @@
 - Date supplied: November 14, 2026.
 - Statement: “再把上海紫竹华庭和昌里花园的项目放入材料里，总共涉及67部电梯，1206万”.
 - English rendering: Add Shanghai Zizhu Huating and Changli Huayuan to the materials; together they involve 67 elevators and 12.06 million. The project note expresses the amount in RMB, following the Chinese project context; currency should be confirmed with underlying records.
+- Follow-up statement (November 14, 2026): “紫竹华庭 13部电梯， 昌里花园 54部电梯，每部18万”.
+- English rendering of follow-up: Zizhu Huating has 13 elevators and Changli Huayuan has 54; each elevator is priced at RMB 180,000, following the existing RMB convention.
+- Arithmetic: 13 × 180,000 = RMB 2,340,000; 54 × 180,000 = RMB 9,720,000; (13 + 54) × 180,000 = RMB 12,060,000. Subtotals are calculated from the owner's stated quantities and unit price, not independently verified invoice amounts.
 - Availability: transcribed statement only; no conversation export or supporting artifact bundled.
-- Verification: not independently verified; amount type, period, per-project allocation, transaction entities, and supporting documentation pending.
+- Verification: not independently verified; quantities and unit price are owner-supplied; amount type, currency confirmation, period, transaction entities, and supporting documentation remain pending.
 
 See [English project note](shanghai-zizhu-changli.en.md) and [中文项目说明](shanghai-zizhu-changli.zh-CN.md). The amount is not characterized as bribery, loss, or illicit proceeds.
