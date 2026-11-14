@@ -7,4 +7,4 @@
 - Availability: transcribed statement only; no conversation export or supporting artifact bundled.
 - Verification: not independently verified; amount type, period, per-project allocation, transaction entities, and supporting documentation pending.
 
-See [English project note](../../projects/shanghai-zizhu-changli.en.md) and [中文项目说明](../../projects/shanghai-zizhu-changli.zh-CN.md). The amount is not characterized as bribery, loss, or illicit proceeds.
+See [English project note](shanghai-zizhu-changli.en.md) and [中文项目说明](shanghai-zizhu-changli.zh-CN.md). The amount is not characterized as bribery, loss, or illicit proceeds.

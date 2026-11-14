@@ -17,7 +17,7 @@ The figures apply to both projects together. They must not be assigned to each p
 
 ## Source and verification status
 
-[E080](../evidence/source-notes/E080.md) records the owner's statement in this working conversation. No supporting contract, elevator schedule, invoice, payment record, tender file, or public decision was supplied with this update. This is a user-provided project lead, not an independently verified public finding. Inclusion in this repository does not establish an Otis contracting entity, wrongdoing, or a connection to the 2018 SEC order.
+[E080](owner-statement.md) records the owner's statement in this working conversation. No supporting contract, elevator schedule, invoice, payment record, tender file, or public decision was supplied with this update. This is a user-provided project lead, not an independently verified public finding. Inclusion in this repository does not establish an Otis contracting entity, wrongdoing, or a connection to the 2018 SEC order.
 
 ## Records to obtain
 

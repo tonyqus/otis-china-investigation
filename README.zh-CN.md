@@ -31,4 +31,4 @@
 
 ## 小区项目材料
 
-新增[上海紫竹华庭、昌里花园](projects/shanghai-zizhu-changli.zh-CN.md)：用户提供两项目**合计67部电梯、涉及金额人民币1,206万元**。金额性质、币种确认、项目分配及支持文件待补充，来源记录为[E080](evidence/source-notes/E080.md)。两项目单独纳入材料，不计入六项历史事项。
+新增[上海紫竹华庭、昌里花园](projects/shanghai-zizhu-changli.zh-CN.md)：用户提供两项目**合计67部电梯、涉及金额人民币1,206万元**。金额性质、币种确认、项目分配及支持文件待补充，来源记录为[E080](projects/owner-statement.md)。两项目单独纳入材料，不计入六项历史事项。

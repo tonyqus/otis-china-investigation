@@ -1,5 +1,7 @@
 # Repository structure audit
 
+> Historical audit: the counts and all-80-source-note check below describe the pre-cleanup revision. The subsequent source-note cleanup removed 74 non-core standalone pages, retained six selected source notes, and moved E080 to [project materials](../projects/owner-statement.md). Current source classifications and document locations are in the [evidence guide](../evidence/README.md) and supplementary register. Preserved Chinese originals remain unchanged.
+
 Reviewed November 14, 2026 against commit `5af09889357a3cd93084e685cc586e3e3e8f6c3d`, followed by the repairs described below. This is a structure, provenance and consistency review, not a new verification of external allegations or a certification of translation accuracy.
 
 ## Findings and repairs

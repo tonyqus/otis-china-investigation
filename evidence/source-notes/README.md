@@ -1,86 +1,14 @@
-# Source notes and classification
+# Selected source notes
 
-Use the [main evidence index](../index.csv) for six selected entries and their specific evidentiary roles. The [supplementary register](../supplementary-register.csv) classifies the other 74 former entries, including background, leads, missing records, owner statements and excluded material. Retained source notes provide provenance; their existence does not make an entry core evidence. IDs remain stable.
+This directory contains only the six entries selected in the [main evidence index](../index.csv). Related-source groups in that index distinguish the existing SEC action from related news reports; six notes do not imply six independent sources or convictions.
 
-No source has been newly authenticated or reverified by this classification update. Related reporting is not automatically independent corroboration. See the [classification explanation](../README.md).
+- [E001](E001.md)
+- [E002](E002.md)
+- [E009](E009.md)
+- [E010](E010.md)
+- [E011](E011.md)
+- [E012](E012.md)
 
-- [E001 — SEC UTC administrative order 34-84087](E001.md) — main index
-- [E002 — SEC enforcement press release](E002.md) — main index
-- [E003 — Otis historical China reporting, syndicated version](E003.md) — supplementary register; see category there
-- [E004 — Jinhua criminal appeal judgment （2003）金中刑二终字第70号](E004.md) — supplementary register; see category there
-- [E005 — Hunan notice 湘卫办发〔2008〕14号 and attachment](E005.md) — supplementary register; see category there
-- [E006 — Changsha Evening News A5 archive](E006.md) — supplementary register; see category there
-- [E007 — Hunan list republication lead](E007.md) — supplementary register; see category there
-- [E008 — Hunan normative-document cleanup catalogue](E008.md) — supplementary register; see category there
-- [E009 — National Business Daily historical China report, accessible reproduction](E009.md) — main index
-- [E010 — Jin Yun apprehension report, government-hosted Newmin reproduction](E010.md) — main index
-- [E011 — District news-center account of 2014 fugitive cases](E011.md) — main index
-- [E012 — Shangguan report on fugitives' lives abroad](E012.md) — main index
-- [E013 — Caijing report on Li Baojin indictment allegations](E013.md) — supplementary register; see category there
-- [E014 — Ding Jinsong investigation report reproduced by Sohu](E014.md) — supplementary register; see category there
-- [E015 — Wenzhou maintenance and unnamed bribery-suspect firms](E015.md) — supplementary register; see category there
-- [E016 — Beijing Youth Daily Yao Jiakai indictment account](E016.md) — supplementary register; see category there
-- [E017 — Otis Electric technical notice on Express and Sigma belts](E017.md) — supplementary register; see category there
-- [E018 — The Paper report on Jiangxi Youmai bribery/inspection case](E018.md) — supplementary register; see category there
-- [E019 — Source linked in general-credit-ranking.md](E019.md) — supplementary register; see category there
-- [E020 — Source linked in general-credit-ranking.md](E020.md) — supplementary register; see category there
-- [E021 — Source linked in general-credit-ranking.md](E021.md) — supplementary register; see category there
-- [E022 — Source linked in general-credit-ranking.md](E022.md) — supplementary register; see category there
-- [E023 — Source linked in otis-global-leadership.md](E023.md) — supplementary register; see category there
-- [E024 — Source linked in otis-global-leadership.md](E024.md) — supplementary register; see category there
-- [E025 — Source linked in otis-global-leadership.md](E025.md) — supplementary register; see category there
-- [E026 — Source linked in otis-global-leadership.md](E026.md) — supplementary register; see category there
-- [E027 — Source linked in otis-global-leadership.md](E027.md) — supplementary register; see category there
-- [E028 — Source linked in otis-global-leadership.md](E028.md) — supplementary register; see category there
-- [E029 — Source linked in otis-global-leadership.md](E029.md) — supplementary register; see category there
-- [E030 — Source linked in otis-global-leadership.md](E030.md) — supplementary register; see category there
-- [E031 — Source linked in otis-global-leadership.md](E031.md) — supplementary register; see category there
-- [E032 — Source linked in otis-global-leadership.md](E032.md) — supplementary register; see category there
-- [E033 — Source linked in otis-global-leadership.md](E033.md) — supplementary register; see category there
-- [E034 — Source linked in otis-china-fake-maintenance.md](E034.md) — supplementary register; see category there
-- [E035 — Source linked in otis-china-fake-maintenance.md](E035.md) — supplementary register; see category there
-- [E036 — Source linked in otis-china-fake-maintenance.md](E036.md) — supplementary register; see category there
-- [E037 — Source linked in otis-china-fake-maintenance.md](E037.md) — supplementary register; see category there
-- [E038 — Source linked in otis-china-fake-maintenance.md](E038.md) — supplementary register; see category there
-- [E039 — Source linked in otis-china-fake-maintenance.md](E039.md) — supplementary register; see category there
-- [E040 — Source linked in otis-china-fake-maintenance.md](E040.md) — supplementary register; see category there
-- [E041 — Source linked in otis-shanghai-fake-maintenance.md](E041.md) — supplementary register; see category there
-- [E042 — Source linked in otis-shanghai-fake-maintenance.md](E042.md) — supplementary register; see category there
-- [E043 — Source linked in otis-shanghai-fake-maintenance.md](E043.md) — supplementary register; see category there
-- [E044 — Source linked in otis-shanghai-fake-maintenance.md](E044.md) — supplementary register; see category there
-- [E045 — Source linked in otis-shanghai-fake-maintenance.md](E045.md) — supplementary register; see category there
-- [E046 — Source linked in otis-shanghai-fake-maintenance.md](E046.md) — supplementary register; see category there
-- [E047 — Source linked in otis-shanghai-fake-maintenance.md](E047.md) — supplementary register; see category there
-- [E048 — Source linked in otis-china-law-firms.md](E048.md) — supplementary register; see category there
-- [E049 — Source linked in otis-china-law-firms.md](E049.md) — supplementary register; see category there
-- [E050 — Source linked in otis-china-law-firms.md](E050.md) — supplementary register; see category there
-- [E051 — Source linked in otis-china-law-firms.md](E051.md) — supplementary register; see category there
-- [E052 — Source linked in otis-china-law-firms.md](E052.md) — supplementary register; see category there
-- [E053 — Source linked in otis-china-law-firms.md](E053.md) — supplementary register; see category there
-- [E054 — Source linked in otis-china-law-firms.md](E054.md) — supplementary register; see category there
-- [E055 — Source linked in otis-china-law-firms.md](E055.md) — supplementary register; see category there
-- [E056 — Source linked in otis-china-law-firms.md](E056.md) — supplementary register; see category there
-- [E057 — Source linked in otis-china-law-firms.md](E057.md) — supplementary register; see category there
-- [E058 — Source linked in otis-china-law-firms.md](E058.md) — supplementary register; see category there
-- [E059 — Source linked in otis-china-law-firms.md](E059.md) — supplementary register; see category there
-- [E060 — Source linked in otis-china-law-firms.md](E060.md) — supplementary register; see category there
-- [E061 — Source linked in otis-china-law-firms.md](E061.md) — supplementary register; see category there
-- [E062 — Source linked in otis-china-law-firms.md](E062.md) — supplementary register; see category there
-- [E063 — Source linked in otis-china-law-firms.md](E063.md) — supplementary register; see category there
-- [E064 — Source linked in otis-china-law-firms.md](E064.md) — supplementary register; see category there
-- [E065 — Source linked in otis-china-law-firms.md](E065.md) — supplementary register; see category there
-- [E066 — Source linked in otis-china-law-firms.md](E066.md) — supplementary register; see category there
-- [E067 — Source linked in otis-china-law-firms.md](E067.md) — supplementary register; see category there
-- [E068 — Source linked in otis-china-law-firms.md](E068.md) — supplementary register; see category there
-- [E069 — Source linked in otis-china-law-firms.md](E069.md) — supplementary register; see category there
-- [E070 — Source linked in otis-china-law-firms.md](E070.md) — supplementary register; see category there
-- [E071 — Source linked in otis-china-maintenance-litigation.md](E071.md) — supplementary register; see category there
-- [E072 — Source linked in otis-china-maintenance-litigation.md](E072.md) — supplementary register; see category there
-- [E073 — Source linked in otis-china-maintenance-litigation.md](E073.md) — supplementary register; see category there
-- [E074 — Source linked in otis-china-maintenance-litigation.md](E074.md) — supplementary register; see category there
-- [E075 — Source linked in otis-china-corruption-cases.md](E075.md) — supplementary register; see category there
-- [E076 — Source linked in otis-china-corruption-cases.md](E076.md) — supplementary register; see category there
-- [E077 — Source linked in otis-china-corruption-cases.md](E077.md) — supplementary register; see category there
-- [E078 — Source linked in otis-china-corruption-cases.md](E078.md) — supplementary register; see category there
-- [E079 — Source linked in otis-china-corruption-cases.md](E079.md) — supplementary register; see category there
-- [E080 — Owner-provided Shanghai Zizhu Huating and Changli Huayuan totals](E080.md) — supplementary register; see category there
+The 74 non-core standalone notes have been removed. Their identifiers, URLs, research status and classifications remain in the [supplementary register](../supplementary-register.csv), whose `record_location` column points to the relevant research or project file. The registry preserves excluded E033 solely as a traceability record; it is not evidence. Missing records are tracked in [outstanding records](../../research/outstanding-records.en.md). The owner's project statement [E080](../../projects/owner-statement.md) is maintained with the project materials.
+
+No underlying source artifacts have been newly acquired or verified through this cleanup. Earlier versions remain available in Git history.

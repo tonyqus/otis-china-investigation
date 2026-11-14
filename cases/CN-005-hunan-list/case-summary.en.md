@@ -30,7 +30,7 @@ Original notice and all 39 entries; exact entity name; conduct, dates, amount, l
 
 ## Sources
 
-[E005](../../evidence/source-notes/E005.md), [E006](../../evidence/source-notes/E006.md), [E007](../../evidence/source-notes/E007.md), [E008](../../evidence/source-notes/E008.md), [E009](../../evidence/source-notes/E009.md)
+[E005](../../research/outstanding-records.en.md), [E006](../../research/corruption-review.en.md), [E007](../../research/corruption-review.en.md), [E008](../../research/corruption-review.en.md), [E009](../../evidence/source-notes/E009.md)
 
 Locator: E005 notice identifier; E006 A5 archive; E009 retrospective naming.
 

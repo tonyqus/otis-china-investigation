@@ -30,7 +30,7 @@ Complete appeal and first-instance judgments; offense/sentence/finality; identit
 
 ## Sources
 
-[E003](../../evidence/source-notes/E003.md), [E004](../../evidence/source-notes/E004.md), [E009](../../evidence/source-notes/E009.md)
+[E003](../../research/corruption-review.en.md), [E004](../../research/outstanding-records.en.md), [E009](../../evidence/source-notes/E009.md)
 
 Locator: E009, passage quoting the reported 2003 criminal judgment.
 
