@@ -9,6 +9,8 @@
 - Arithmetic: 13 × 180,000 = RMB 2,340,000; 54 × 180,000 = RMB 9,720,000; (13 + 54) × 180,000 = RMB 12,060,000. Subtotals are calculated from the owner's stated quantities and unit price, not independently verified invoice amounts.
 - Fee-scope clarification (November 14, 2026): “金额性质是 电梯设备与安装费，包括拆梯费用”.
 - English rendering: The amounts cover elevator equipment and installation fees, including removal of the existing elevators. Removal is included in the RMB 180,000 unit price and resulting project totals; no separate cost breakdown was supplied.
+- Party clarification (November 14, 2026): “采购、供应及维保主体：业委会”.
+- English rendering: The party identified in the grouped procurement/supply/maintenance field is the Owners’ Committee (业委会). This is recorded for both projects; full committee names, contractual responsibilities and actual service-provider identities await supporting documents.
 - Availability: transcribed statement only; no conversation export or supporting artifact bundled.
 - Verification: not independently verified; quantities and unit price are owner-supplied; the fee scope is equipment and installation including existing-elevator removal; currency confirmation, tax treatment, component cost breakdown, payment status, period, transaction entities, and supporting documentation remain pending.
 

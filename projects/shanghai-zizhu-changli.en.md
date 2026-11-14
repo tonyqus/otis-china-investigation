@@ -15,7 +15,9 @@ The owner subsequently specified **13 elevators at Zizhu Huating** and **54 at C
 | Calculated amount (RMB) | 2,340,000 | 9,720,000 | 12,060,000 |
 | Fee scope | Equipment and installation, including existing-elevator removal | Equipment and installation, including existing-elevator removal | Same scope; removal included |
 | Period | Pending | Pending | Pending |
-| Contracting / supplying / maintenance entities | Pending | Pending | Not established |
+| Procurement / supply / maintenance party (owner-reported grouped field) | Owners’ Committee (业委会) | Owners’ Committee (业委会) | Respective project Owners’ Committees |
+
+The owner identifies the party in the grouped procurement/supply/maintenance field as the **Owners’ Committee (业委会)** for each project. The committees’ full names, contractual roles, and the identities of any equipment suppliers, installation contractors and maintenance service providers remain to be documented.
 
 ## Source and verification status
 
