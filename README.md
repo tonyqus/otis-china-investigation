@@ -6,7 +6,7 @@
 
 ## 拟供SEC查阅的具体案件材料
 
-- [SEC review：小区项目及街道案例](SEC%20review/README.md)
+- [sec-review：小区项目及街道案例](sec-review/README.md)
 
 ## 公司组织架构
 - [Otis 全球领导层与区域运营架构](otis-global-leadership.md)
