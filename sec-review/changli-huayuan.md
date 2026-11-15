@@ -4,10 +4,14 @@
 
 ## Project
 
-- Elevators: 54 at RMB 180,000 each; calculated amount RMB 9,720,000.
+- Elevators: **54**.
+- Owner-reported unit price: **RMB 180,000 (approximately USD 26,979)**.
+- Calculated project amount: **RMB 9,720,000 (approximately USD 1,456,856)**. These figures are based on the owner's stated quantity and unit price; Changli Huayuan's contract amount has not yet been verified.
 - Fee scope: elevator equipment and installation, including removal of existing elevators.
 - Procurement, supply and maintenance party: the owner identifies the Owners' Committee in this grouped field; its specific responsibilities and actual suppliers, installers and maintenance providers remain to be documented.
 - Combined elevator count with [Zizhu Huating (紫竹华庭)](zizhu-huating.md): 67. Zizhu Huating's contract gives an estimated RMB 2,336,750, so the earlier rounded RMB 12,060,000 aggregate is not a verified combined contract total. Changli Huayuan's own contract amount remains to be checked.
+
+USD figures are reference conversions only, using **USD 1 = CNY 6.6719**, dated **November 13, 2026**, consistent with the Zizhu Huating document ([Frankfurter exchange-rate data](https://api.frankfurter.dev/v1/2026-11-13?base=USD&symbols=CNY)). Calculation: RMB amount ÷ 6.6719, rounded to the nearest whole US dollar. These are not contract-date exchange rates or actual USD payments.
 
 ## Specific concern
 
