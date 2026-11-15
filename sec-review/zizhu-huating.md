@@ -5,6 +5,7 @@
 ## Project
 
 - Project name: **紫竹华庭 — Zizhu Huating**.
+- Administrative location: **Zhoujiadu Subdistrict (周家渡街道)**. According to the owner, Zizhu Huating and Changli Huayuan are both within this subdistrict.
 - Elevators: **13**.
 - Contract amount: **RMB 2,336,750 including tax (approximately USD 350,238)**, described on page 2 as the estimated total for 13 elevators. This averages **RMB 179,750 per elevator (approximately USD 26,941)** (RMB 2,336,750 ÷ 13), rather than an exactly RMB 180,000 unit price.
 - Price qualification: page 2 provides for price review; the actual payment amount is subject to the price-review report. The average above is an arithmetic figure, not a separately verified itemized unit-price schedule.
@@ -16,7 +17,7 @@ USD figures are reference conversions only, using **USD 1 = CNY 6.6719**, dated 
 
 ## Specific concern
 
-According to the owner, Zizhu Huating and Changli Huayuan form one procurement project organized at subdistrict level and restricted to the Otis brand. The owner identifies this as a single-brand directed-procurement concern. The responsible subdistrict, procurement process, brand restriction and approval basis remain to be documented. A formal statutory single-source procurement procedure has not been established.
+According to the owner, Zizhu Huating and Changli Huayuan form one procurement project organized at subdistrict level and restricted to the Otis brand. The owner identifies this as a single-brand directed-procurement concern. The owner identifies the shared subdistrict as **Zhoujiadu (周家渡街道)**; its specific procurement role, the procurement process, brand restriction and approval basis remain to be documented. A formal statutory single-source procurement procedure has not been established.
 
 ## Why the owner describes the procurement as single-brand directed procurement
 
@@ -47,7 +48,7 @@ The chronology, committee explanation, reported lack of brand choice, approximat
 
 ## Information needed
 
-- Project dates, addresses, responsible subdistrict and full names of participating parties.
+- Project dates, addresses, Zhoujiadu Subdistrict's specific role and full names of participating parties.
 - The April 2026 voting notice, its attachments, posting date, ballot wording, brand options and voting results.
 - The committee's statement issued when installation began, including its date, exact wording and evidence for the claimed May 2025 selection.
 - The Otis presentation/invitation, meeting minutes, brand-selection decision, any three-party comparison, quotations, bidder identities and tender/selection records relevant to the reported cover-bidding concern.
