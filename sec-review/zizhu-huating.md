@@ -1,10 +1,11 @@
-# Zizhu Huating
+# Zizhu Huating (紫竹华庭)
 
 [Directory](README.md)
 
 ## Project
 
-- Name: Zizhu Huating; the owner has used differing written forms of the name. Confirm the official name against project documents.
+- Project name: **紫竹华庭 — Zizhu Huating**. The owner confirms the Chinese spelling as 紫竹华庭; use this spelling when matching project records.
+- File-name mapping: Chinese name `紫竹华庭.md` ↔ repository file `zizhu-huating.md`. This is one English-language document; no separate Chinese edition is maintained.
 - Elevators: 13 at RMB 180,000 each; calculated amount RMB 2,340,000.
 - Fee scope: elevator equipment and installation, including removal of existing elevators.
 - Procurement, supply and maintenance party: the owner identifies the Owners' Committee in this grouped field; its specific responsibilities and actual suppliers, installers and maintenance providers remain to be documented.

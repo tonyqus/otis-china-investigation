@@ -4,10 +4,12 @@ This directory contains case-specific materials being prepared for the U.S. Secu
 
 | Matter | Current material |
 | --- | --- |
-| [Zizhu Huating](zizhu-huating.md) | Owner-reported quantities, fees and directed-procurement concern; official project name to be confirmed |
+| [Zizhu Huating (紫竹华庭)](zizhu-huating.md) | Owner-reported quantities, fees and directed-procurement concern; Chinese name confirmed by the owner |
 | [Changli Huayuan](changli-huayuan.md) | Owner-reported quantities, fees and directed-procurement concern |
 | [Shangnan Huayuan](shangnan-huayuan.md) | Listed for preparation; details pending |
 | [Dongming Road Subdistrict](dongming-road-subdistrict.md) | Listed for preparation; specific matter and relationship to the residential projects pending |
+
+Name/file mapping: **紫竹华庭 / Zizhu Huating** → `zizhu-huating.md` (Chinese name equivalent: `紫竹华庭.md`). The Chinese name is included for record matching, not as a separate Chinese edition.
 
 Each document covers the project, specific concern, evidence and missing information. Supporting files may be placed directly in this directory, named for the relevant matter and linked from its document.
 
