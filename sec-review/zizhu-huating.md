@@ -6,11 +6,13 @@
 
 - Project name: **紫竹华庭 — Zizhu Huating**.
 - Elevators: **13**.
-- Contract amount: **RMB 2,336,750 including tax**, described on page 2 as the estimated total for 13 elevators. This averages **RMB 179,750 per elevator** (RMB 2,336,750 ÷ 13), rather than an exactly RMB 180,000 unit price.
+- Contract amount: **RMB 2,336,750 including tax (approximately USD 350,238)**, described on page 2 as the estimated total for 13 elevators. This averages **RMB 179,750 per elevator (approximately USD 26,941)** (RMB 2,336,750 ÷ 13), rather than an exactly RMB 180,000 unit price.
 - Price qualification: page 2 provides for price review; the actual payment amount is subject to the price-review report. The average above is an arithmetic figure, not a separately verified itemized unit-price schedule.
 - Fee scope: elevator equipment and installation, including removal of existing elevators.
 - Procurement, supply and maintenance party: the owner identifies the Owners' Committee in this grouped field; its specific responsibilities and actual suppliers, installers and maintenance providers remain to be documented.
 - Combined elevator count with [Changli Huayuan](changli-huayuan.md): 67. The earlier combined RMB 12,060,000 figure used a rounded RMB 180,000 assumption for Zizhu Huating and is not a verified combined contract total.
+
+USD figures are reference conversions only, using **USD 1 = CNY 6.6719**, dated **November 13, 2026**, the preceding business day ([Frankfurter exchange-rate data](https://api.frankfurter.dev/v1/2026-11-13?base=USD&symbols=CNY), based on ECB reference rates; retrieved November 15, 2026). Calculation: RMB amount ÷ 6.6719, rounded to the nearest whole US dollar. These are not contract-date exchange rates or actual USD payments; the contract remains denominated in RMB.
 
 ## Specific concern
 
