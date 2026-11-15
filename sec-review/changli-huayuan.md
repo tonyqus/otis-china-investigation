@@ -4,6 +4,8 @@
 
 ## Project
 
+- Administrative location: **Zhoujiadu Subdistrict (周家渡街道)**. According to the owner, Changli Huayuan (昌里花园) and Zizhu Huating (紫竹华庭) are both residential developments within this same subdistrict.
+
 - Elevators: **54**.
 - Owner-reported unit price: **RMB 180,000 (approximately USD 26,979)**.
 - Calculated project amount: **RMB 9,720,000 (approximately USD 1,456,856)**. These figures are based on the owner's stated quantity and unit price; Changli Huayuan's contract amount has not yet been verified.
@@ -15,7 +17,7 @@ USD figures are reference conversions only, using **USD 1 = CNY 6.6719**, dated 
 
 ## Specific concern
 
-According to the owner, Zizhu Huating (紫竹华庭) and Changli Huayuan form one procurement project organized at subdistrict level and restricted to the Otis brand. The owner identifies this as a single-brand directed-procurement concern. The responsible subdistrict, procurement process, brand restriction and approval basis remain to be documented. A formal statutory single-source procurement procedure has not been established.
+According to the owner, Zizhu Huating (紫竹华庭) and Changli Huayuan form one procurement project organized at subdistrict level and restricted to the Otis brand. The owner identifies this as a single-brand directed-procurement concern. The owner confirms that Changli Huayuan is also subject to the reported Otis-only, single-brand directed procurement and identifies the shared subdistrict as **Zhoujiadu (周家渡街道)**. The subdistrict's specific procurement role, the procurement process, brand-restriction clauses and approval basis remain to be documented. A formal statutory single-source procurement procedure has not been established.
 
 ## Evidence and source
 
@@ -23,7 +25,7 @@ The current source is the owner's statements in the working conversation. No Cha
 
 ## Information needed
 
-- Project dates, addresses, responsible subdistrict and full names of participating parties.
+- Project dates, addresses, Zhoujiadu Subdistrict's specific procurement role and full names of participating parties.
 - Procurement notices or invitations, brand-restriction clauses, supplier-selection records and approvals.
 - Contracts, equipment schedules, quotations, payment and acceptance records; equipment, installation and removal cost breakdowns.
 - Specific alleged improper conduct, individuals involved and supporting materials.
