@@ -1,16 +1,16 @@
-# sec-review：拟供SEC查阅的具体案件材料
+# Materials for SEC Review
 
-本目录收集拟向美国证券交易委员会（SEC）提供的腐败、商业贿赂及采购疑点材料。先用中文逐案整理，后续再制作英文稿。
+This directory contains case-specific materials being prepared for the U.S. Securities and Exchange Commission (SEC), concerning reported corruption, commercial bribery and procurement concerns. All documents in this directory are prepared directly in English; no parallel Chinese edition is maintained.
 
-| 事项 | 当前材料 |
+| Matter | Current material |
 | --- | --- |
-| [紫竹华庭](紫竹华庭.md)（本次称“紫竹花亭”，名称待核） | 已有用户提供的数量、费用及定向采购疑点 |
-| [昌里花园](昌里花园.md) | 已有用户提供的数量、费用及定向采购疑点 |
-| [上南花苑](上南花苑.md) | 已列入，具体情况待补充 |
-| [东明路街道](东明路街道.md) | 已列入，具体案例及与各小区的关系待补充 |
+| [Zizhu Huating](zizhu-huating.md) | Owner-reported quantities, fees and directed-procurement concern; official project name to be confirmed |
+| [Changli Huayuan](changli-huayuan.md) | Owner-reported quantities, fees and directed-procurement concern |
+| [Shangnan Huayuan](shangnan-huayuan.md) | Listed for preparation; details pending |
+| [Dongming Road Subdistrict](dongming-road-subdistrict.md) | Listed for preparation; specific matter and relationship to the residential projects pending |
 
-每份材料只整理：项目情况、具体问题、证据、待补信息。已有附件直接放在本目录，文件名注明所属事项，并在对应文档内链接。
+Each document covers the project, specific concern, evidence and missing information. Supporting files may be placed directly in this directory, named for the relevant matter and linked from its document.
 
-紫竹华庭、昌里花园此前被描述为同一街道层面的统一采购项目；其他事项是否关联，暂不合并。目录中的“案件”是整理称谓，用户陈述、待核疑点与有文件支持的事实应分别标明。
+Zizhu Huating and Changli Huayuan were reported as part of one subdistrict-level procurement project. Links to the other matters have not yet been established. Matter labels are organizational: distinguish owner statements, unverified concerns and facts supported by documents.
 
-目前尚未通过本项目向SEC提交材料。
+No materials have been submitted to the SEC through this work.
