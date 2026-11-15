@@ -11,7 +11,6 @@
 - Price qualification: page 2 provides for price review; the actual payment amount is subject to the price-review report. The average above is an arithmetic figure, not a separately verified itemized unit-price schedule.
 - Fee scope: elevator equipment and installation, including removal of existing elevators.
 - Procurement, supply and maintenance party: the owner identifies the Owners' Committee in this grouped field; its specific responsibilities and actual suppliers, installers and maintenance providers remain to be documented.
-- Combined elevator count with [Changli Huayuan](changli-huayuan.md): 67. The earlier combined RMB 12,060,000 figure used a rounded RMB 180,000 assumption for Zizhu Huating and is not a verified combined contract total.
 
 USD figures are reference conversions only, using **USD 1 = CNY 6.6719**, dated **November 13, 2026**, the preceding business day ([Frankfurter exchange-rate data](https://api.frankfurter.dev/v1/2026-11-13?base=USD&symbols=CNY), based on ECB reference rates; retrieved November 15, 2026). Calculation: RMB amount ÷ 6.6719, rounded to the nearest whole US dollar. These are not contract-date exchange rates or actual USD payments; the contract remains denominated in RMB.
 
