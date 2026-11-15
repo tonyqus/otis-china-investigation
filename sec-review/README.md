@@ -7,7 +7,7 @@ This directory contains case-specific materials being prepared for the U.S. Secu
 | [Zizhu Huating - 紫竹华庭](zizhu-huating.md) | 13 elevators; contract page 2 gives an estimated RMB 2,336,750 including tax (average RMB 179,750 each), subject to price review; procurement concern remains owner-reported |
 | [Changli Huayuan - 昌里花园](changli-huayuan.md) | Owner-reported quantities, fees and directed-procurement concern |
 | [Shangnan Huayuan - 上南花苑](shangnan-huayuan.md) | Listed for preparation; details pending |
-| [Jinju Xinyuan (金橘新苑)](jinju-xinyuan.md) | Owner reports a complaint by “Xiao Elevator” (西奥电梯) alleging an unlawful Otis quotation process; supporting documents pending |
+| [Jinju Xinyuan (金橘新苑)](jinju-xinyuan.md) | September 18, 2026 stamped Xiao Elevator complaint reviewed: five allegations concerning quotations and resident consultation; government response pending |
 
 Name/file mapping: **紫竹华庭 / Zizhu Huating** → `zizhu-huating.md` (Chinese name equivalent: `紫竹华庭.md`). The Chinese name is included for record matching, not as a separate Chinese edition.
 
