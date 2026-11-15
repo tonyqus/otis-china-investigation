@@ -4,7 +4,7 @@
 
 ## Project
 
-The owner requested inclusion of Jinju Xinyuan (金橘新苑) in the materials for SEC review. The project address, responsible subdistrict, dates, elevator quantities, amounts and participating legal entities remain to be supplied.
+The owner requested inclusion of Jinju Xinyuan (金橘新苑) in the materials for SEC review. According to the owner, the development is within **Dongming Road Subdistrict (东明路街道)**. The project address, dates, elevator quantities, amounts and participating legal entities remain to be supplied.
 
 ## Specific concern
 
@@ -22,4 +22,4 @@ Currently based on the owner's statement in the working conversation. No complai
 - Original report or complaint, its date, recipient and any acknowledgment or official response.
 - The specific alleged defect in the quotation process and the rules cited by the reporting party.
 - Procurement documents, competing quotations, supplier-selection records, contracts and correspondence.
-- Project dates, address, responsible subdistrict, elevator quantities, amounts and relevant individuals.
+- Project dates, address, Dongming Road Subdistrict's role (if any), elevator quantities, amounts and relevant individuals.
