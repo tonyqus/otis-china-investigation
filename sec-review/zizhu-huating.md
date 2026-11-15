@@ -14,6 +14,18 @@
 
 USD figures are reference conversions only, using **USD 1 = CNY 6.6719**, dated **November 13, 2026**, the preceding business day ([Frankfurter exchange-rate data](https://api.frankfurter.dev/v1/2026-11-13?base=USD&symbols=CNY), based on ECB reference rates; retrieved November 15, 2026). Calculation: RMB amount ÷ 6.6719, rounded to the nearest whole US dollar. These are not contract-date exchange rates or actual USD payments; the contract remains denominated in RMB.
 
+## Shared project personnel
+
+According to the owner, Zizhu Huating (紫竹华庭) and Changli Huayuan (昌里花园) involved the same sales and installation management personnel:
+
+| Name | Reported role |
+| --- | --- |
+| Tang Yanzhong (唐彦忠) | Sales representative |
+| Wu Chunjun (吴春军) | Installation project manager |
+| Xue Gang (薛刚) | Installation regional manager |
+
+Names and roles are owner-provided; English spellings are pinyin renderings. Their employer/legal entity, dates of involvement and responsibilities should be corroborated through contracts, project correspondence or appointment records. Shared personnel are a connection between the two projects, not by themselves evidence of misconduct by these individuals.
+
 ## Specific concern
 
 According to the owner, Zizhu Huating and Changli Huayuan form one procurement project organized at subdistrict level and restricted to the Otis brand. The owner identifies this as a single-brand directed-procurement concern. The owner identifies the shared subdistrict as **Zhoujiadu (周家渡街道)**; its specific procurement role, the procurement process, brand restriction and approval basis remain to be documented. A formal statutory single-source procurement procedure has not been established.
