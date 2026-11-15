@@ -1,24 +1,27 @@
-# Otis China — Materials for SEC Review
+# 奥的斯中国区独立调查
 
-Updated November 14, 2026. [中文说明](README.zh-CN.md)
+起因：由于我们小区新安装奥的斯电梯之后，在安装过程中发现了诸多问题，涉及施工管理、外包质量控制、安装部门工作人员推诿、欺骗居民等非常不专业的行为。
 
-**[Read the review memorandum](submission/executive-summary.md)** — the main document brings together the reported Shanghai procurement concern, historical matters, supporting sources and records still needed.
+而且奥的斯的400投诉电话没什么用，安装部门的区域经理不但不承认错误，还指责我是友商派来的，这种无理、不专业的举动，直接激怒了我，所以我决定启动针对奥的斯中国的独立调查，我一定会让奥的斯中国为自己的傲慢付出代价！说到做到！
 
-## What the materials cover
+## 公司组织架构
+- [Otis 全球领导层与区域运营架构](otis-global-leadership.md)
+- [奥的斯中国分公司负责人调整](china-region-lead-change.md)
 
-- **Shanghai procurement concern:** the owner reports one subdistrict-level project covering Zizhu Huating and Changli Huayuan, restricted to the Otis brand. It involves 67 elevators at RMB 180,000 each, totaling RMB 12,060,000 for equipment, installation and existing-elevator removal. The reported arrangement and brand restriction await supporting documents.
-- **Historical record:** the 2018 SEC UTC order covers Wuhan, Hangzhou and Shenzhen. Other historical reports concern Yiwu, Hunan and Shanghai Jin Yun, with missing judicial or official records.
+## 上海市市监局数据
+- [上海奥的斯与奥的斯机电：官方综合信用评价排名](general-credit-ranking.md)
+- [上海奥的斯与奥的斯机电：2025—2026年同期一次检验合格率](one-time-inspection-qualified-rate.md)
 
-The Shanghai project information is owner-supplied. It is separate from the historical findings and does not establish bribery or a securities-law violation.
+## 商业贿赂调查
+- [Otis 中国历史腐败与商业贿赂案件调查](otis-china-corruption-cases.md)
 
-## Supporting materials
+## 虚假维保
+- [奥的斯上海虚假维保及违规维保案例调查](otis-shanghai-fake-maintenance.md)
+- [奥的斯上海以外地区虚假维保及违规维保案例调查](otis-china-fake-maintenance.md)
 
-| Need | Read |
-| --- | --- |
-| Selected sources and what they support | [Evidence index](evidence/index.csv) |
-| Shanghai project details | [Project note](projects/shanghai-zizhu-changli.en.md) |
-| Detailed research, Chinese originals and methodology | [Supporting document index](docs/research-index.en.md) |
+## 法务、代理律所与民事诉讼
 
-English documents are unofficial research renderings. External source artifacts are not bundled. No submission has been sent through this work. This repository is private; external reviewers need access or a downloaded copy.
+- [奥的斯中国相关代理律所与律师公开记录](otis-china-law-firms.md)
+- [奥的斯中国：维保费用与合同诉讼案例](otis-china-maintenance-litigation.md)
 
-[License](LICENSE)
+上述专题区分律所自行披露、裁判文书转载、当事人主张与法院认定，并标注待核事项。
