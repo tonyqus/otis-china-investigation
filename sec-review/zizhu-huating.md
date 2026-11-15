@@ -5,7 +5,6 @@
 ## Project
 
 - Project name: **紫竹华庭 — Zizhu Huating**.
-- File-name mapping: Chinese name `紫竹华庭.md` ↔ repository file `zizhu-huating.md`. This is one English-language document; no separate Chinese edition is maintained.
 - Elevators: **13**.
 - Contract amount: **RMB 2,336,750 including tax**, described on page 2 as the estimated total for 13 elevators. This averages **RMB 179,750 per elevator** (RMB 2,336,750 ÷ 13), rather than an exactly RMB 180,000 unit price.
 - Price qualification: page 2 provides for price review; the actual payment amount is subject to the price-review report. The average above is an arithmetic figure, not a separately verified itemized unit-price schedule.
