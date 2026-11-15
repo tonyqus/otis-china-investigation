@@ -7,7 +7,7 @@
 - Elevators: 54 at RMB 180,000 each; calculated amount RMB 9,720,000.
 - Fee scope: elevator equipment and installation, including removal of existing elevators.
 - Procurement, supply and maintenance party: the owner identifies the Owners' Committee in this grouped field; its specific responsibilities and actual suppliers, installers and maintenance providers remain to be documented.
-- Combined with [Zizhu Huating (紫竹华庭)](zizhu-huating.md): 67 elevators and RMB 12,060,000. Do not count the combined total again as an additional project amount.
+- Combined elevator count with [Zizhu Huating (紫竹华庭)](zizhu-huating.md): 67. Zizhu Huating's contract gives an estimated RMB 2,336,750, so the earlier rounded RMB 12,060,000 aggregate is not a verified combined contract total. Changli Huayuan's own contract amount remains to be checked.
 
 ## Specific concern
 
@@ -15,7 +15,7 @@ According to the owner, Zizhu Huating (紫竹华庭) and Changli Huayuan form on
 
 ## Evidence and source
 
-The current source is the owner's statements in the working conversation. No procurement notice, contract, quotation, payment record or approval document has been supplied. Amounts are calculated from the owner's stated quantities and unit price.
+The current source is the owner's statements in the working conversation. No Changli Huayuan procurement notice, contract, quotation, payment record or approval document has been reviewed. A separate contract scan for Zizhu Huating has been located and its price clause checked; it does not verify Changli Huayuan's price. Amounts are calculated from the owner's stated quantities and unit price.
 
 ## Information needed
 

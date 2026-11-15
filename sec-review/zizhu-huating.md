@@ -6,10 +6,12 @@
 
 - Project name: **紫竹华庭 — Zizhu Huating**. The owner confirms the Chinese spelling as 紫竹华庭; use this spelling when matching project records.
 - File-name mapping: Chinese name `紫竹华庭.md` ↔ repository file `zizhu-huating.md`. This is one English-language document; no separate Chinese edition is maintained.
-- Elevators: 13 at RMB 180,000 each; calculated amount RMB 2,340,000.
+- Elevators: **13**.
+- Contract amount: **RMB 2,336,750 including tax**, described on page 2 as the estimated total for 13 elevators. This averages **RMB 179,750 per elevator** (RMB 2,336,750 ÷ 13), rather than an exactly RMB 180,000 unit price.
+- Price qualification: page 2 provides for price review; the actual payment amount is subject to the price-review report. The average above is an arithmetic figure, not a separately verified itemized unit-price schedule.
 - Fee scope: elevator equipment and installation, including removal of existing elevators.
 - Procurement, supply and maintenance party: the owner identifies the Owners' Committee in this grouped field; its specific responsibilities and actual suppliers, installers and maintenance providers remain to be documented.
-- Combined with [Changli Huayuan](changli-huayuan.md): 67 elevators and RMB 12,060,000. Do not count the combined total again as an additional project amount.
+- Combined elevator count with [Changli Huayuan](changli-huayuan.md): 67. The earlier combined RMB 12,060,000 figure used a rounded RMB 180,000 assumption for Zizhu Huating and is not a verified combined contract total.
 
 ## Specific concern
 
@@ -17,7 +19,9 @@ According to the owner, Zizhu Huating and Changli Huayuan form one procurement p
 
 ## Evidence and source
 
-The current source is the owner's statements in the working conversation. No procurement notice, contract, quotation, payment record or approval document has been supplied. Amounts are calculated from the owner's stated quantities and unit price.
+[Contract scan](https://github.com/tonyqus/zizhu-otis-lift/blob/451593ec4ac4781aebf309f743d878d56f1e0cb9/zizhu-otis-contract.pdf), page 2, Section III (Contract Price), visually reviewed November 15, 2026: 13 elevators; estimated total RMB 2,336,750 including tax; actual payment subject to a price-review report. The downloaded PDF matches Git blob `a12078c53c546590d499722ee46f95e4021f0648`.
+
+The procurement concern and inclusion of existing-elevator removal remain owner-reported; review of the price clause alone does not verify those claims. No price-review report, payment record, procurement notice or brand-restriction approval has yet been reviewed.
 
 ## Information needed
 
