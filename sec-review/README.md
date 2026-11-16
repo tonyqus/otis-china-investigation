@@ -8,7 +8,7 @@ This directory contains case-specific materials being prepared for the U.S. Secu
 | [Changli Huayuan - 昌里花园](changli-huayuan.md) | Owner-reported quantities, fees and directed-procurement concern |
 | [Shangnan Huayuan - 上南花苑](shangnan-huayuan.md) | Listed for preparation; details pending |
 | [Jinju Xinyuan - 金橘新苑](jinju-xinyuan.md) | September 18, 2026 stamped Xiao Elevator complaint reviewed: five allegations concerning quotations and resident consultation; government response pending |
-| [Bo'ai Jiayuan - 博爱家园](boai-jiayuan.md) | Zhoujiadu; 8 Shanghai Mitsubishi elevators reportedly in service for about 25 years; Otis-only replacement and objections from some buildings, as reported by the owner |
+| [Bo'ai Jiayuan - 博爱家园](boai-jiayuan.md) | Zhoujiadu; 8 Shanghai Mitsubishi elevators reportedly in service for about 25 years; Otis-only replacement at owner-reported RMB 180,000 each (RMB 1,440,000 calculated total); objections from some buildings |
 
 Name/file mapping: **紫竹华庭 / Zizhu Huating** → `zizhu-huating.md` (Chinese name equivalent: `紫竹华庭.md`). The Chinese name is included for record matching, not as a separate Chinese edition.
 

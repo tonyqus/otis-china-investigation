@@ -9,9 +9,13 @@ According to the owner:
 - **Location:** Zhoujiadu Subdistrict (周家渡街道), the same subdistrict as Zizhu Huating (紫竹华庭) and Changli Huayuan (昌里花园).
 - **Elevators concerned:** 8 existing Shanghai Mitsubishi elevators, reported to have operated for approximately 25 years.
 - **Replacement brand:** Otis, under a reported single-brand replacement arrangement.
+- **Owner-reported unit price:** RMB 180,000 (approximately USD 26,979) per Otis elevator.
+- **Calculated total for 8 elevators:** RMB 1,440,000 (approximately USD 215,831). The unit price and calculated total have not yet been verified against a contract.
 - **Resident response:** residents in some buildings do not agree to replacement with Otis elevators.
 
-Project dates, replacement/installation status, prices and contracting parties have not yet been supplied.
+Project dates, replacement/installation status, fee scope, tax treatment and contracting parties remain to be supplied.
+
+USD amounts are reference conversions using USD 1 = CNY 6.6719, dated November 13, 2026, consistent with the other project notes ([exchange-rate source](https://api.frankfurter.dev/v1/2026-11-13?base=USD&symbols=CNY)). RMB amounts are divided by 6.6719 and rounded to whole US dollars; these are not actual USD payments.
 
 ## Specific concern
 
